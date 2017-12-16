@@ -9,3 +9,4 @@ Homestead.yaml
 /public/hotel/tmp
 /public/hotel/.DS_Store
 /public/hotel/.idea
+/.idea/*
